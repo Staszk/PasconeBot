@@ -1,0 +1,20 @@
+{
+    "prefix": "/",
+    "token": "",
+    "waitTime": 1000,
+    "strings": [
+        "challenge one",
+        "challenge two",
+        "challenge three",
+        "challenge four",
+        "challenge five"
+    ],
+    "openers": [
+        "Try your best at: ",
+        "Good luck doing: ",
+        "No way you will: ",
+        "Bet you $5 you won't: ",
+        "Only an idiot would: ",
+        "Highly doubt you will: "
+    ]
+}
